@@ -33,7 +33,7 @@ This repository hosts and maintains the list of Google Summer of Code (GSoC) pro
 4. **Add the upstream repository**:
 
    ```
-   git remote add upstream https://github.com/geeky33/GSoC_archive_2025.git
+   git remote add upstream https://github.com/geeky33/GSoC_VJTI_Archive.git
    ```
 
 5. **Sync your fork** with the main repository:
