@@ -1,7 +1,7 @@
 <p align="center">
     <img src="./assets/gsoclogo.svg">   
 </p>
-<p align="center"><b>Community archive of accepted GSoC 2025 proposals from VJTI Mumbai for reference and inspiration for fellow Juniors and New Contributors</b></p>
+<p align="center"><b>Community archive of accepted GSoC proposals from VJTI Mumbai for reference and inspiration for fellow Juniors and New Contributors. Feel free to reach out us for any queries. Here to document and create an impacful legacy for Open Source in VJTI</b></p>
 
 > **Note**: This README is automatically updated! The proposal count, organization list, and contributors are maintained by GitHub Actions whenever new proposals are added or PRs are merged.
 # GSoC Proposal Collection
