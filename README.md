@@ -80,7 +80,6 @@ That's it. Your work could help someone get in next year.
 - [x] ML4SCI
 - [x] Rspamd
 - [x] TARDIS RT Collaboration
-- [x] assets
 
 <!-- This list is automatically updated from the directory structure -->
 
@@ -89,10 +88,14 @@ That's it. Your work could help someone get in next year.
 ## Contributors
 <!-- Add contributors below -->
 - [ayraa.ai](https://github.com/geeky33)
+- [Kevin Shah](https://github.com/kevinzb56)
+- [Sourish Phate](https://github.com/sourishphate)
 - [Swayam Shah](https://github.com/Sonu0305)
 
 <div align="center">
   <a href="https://github.com/geeky33"><img src="https://github.com/geeky33.png" width="60px" alt="geeky33" /></a>
+  <a href="https://github.com/kevinzb56"><img src="https://github.com/kevinzb56.png" width="60px" alt="kevinzb56" /></a>
   <a href="https://github.com/Sonu0305"><img src="https://github.com/Sonu0305.png" width="60px" alt="Sonu0305" /></a>
+  <a href="https://github.com/sourishphate"><img src="https://github.com/sourishphate.png" width="60px" alt="sourishphate" /></a>
 </div>
 
