@@ -80,7 +80,6 @@ That's it. Your work could help someone get in next year.
 - [x] ML4SCI
 - [x] Rspamd
 - [x] TARDIS RT Collaboration
-- [x] assets
 
 <!-- This list is automatically updated from the directory structure -->
 
