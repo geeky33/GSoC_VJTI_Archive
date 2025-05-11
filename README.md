@@ -51,7 +51,7 @@ This repository hosts and maintains the list of Google Summer of Code (GSoC) pro
 7. **Add your proposal**:
    - Create a folder named after the organization if it doesn't exist.
    - Place your proposal PDF inside this folder.
-   - Rename your proposal PDF to: `<Org-Name>_GSoC_Proposal_<Year>.pdf`
+   - Rename your proposal PDF to: `<Project-Name>_GSoC_Proposal_<Year>.pdf`
 
 8. **Commit and push your changes**:
 
