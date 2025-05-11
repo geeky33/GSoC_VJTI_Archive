@@ -1,0 +1,60 @@
+name: README Maintainer
+
+on:
+  pull_request_target:
+    types: [closed]
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 0 * * *'  # Run daily
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  update:
+    name: Update README.md after PRs or changes
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' || (github.event_name == 'pull_request_target' && github.event.pull_request.merged == true)
+    permissions:
+      contents: write
+      pull-requests: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyGithub
+
+      - name: Run README updater script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+          GITHUB_REF: ${{ github.ref }}
+        run: |
+          python .github/scripts/update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (
+            if [[ "${{ github.event_name }}" == "pull_request_target" ]]; then
+              git commit -m "Update README after PR merge - Add new org and contributors"
+            else
+              git commit -m "Update README organization list and contributors"
+            fi
+            git push
+          )
