@@ -8,7 +8,7 @@ def get_org_list_from_directories():
     """Get organization list from directories in the repository"""
     org_dirs = []
     for dir_path in glob.glob("*"):
-        if os.path.isdir(dir_path) and not dir_path.startswith('.') and dir_path != '.github':
+        if os.path.isdir(dir_path) and not dir_path.startswith('.') and dir_path not in ['.github', 'assets']:
             org_dirs.append(dir_path)
     return sorted(org_dirs)
 
