@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="gsoclogo.svg">   
+    <img src="./assets/gsoclogo.svg">   
 </p>
 <p align="center"><b>Community archive of accepted GSoC 2025 proposals from VJTI Mumbai for reference and inspiration for fellow Juniors and New Contributors</b></p>
 
