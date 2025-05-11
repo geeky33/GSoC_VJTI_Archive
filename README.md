@@ -19,7 +19,7 @@ This repository hosts and maintains the list of Google Summer of Code (GSoC) pro
 
 ## 📊 Repository Stats
 
-- Total proposals submitted: **9** _(auto-updated)_
+- Total proposals submitted: **8** _(auto-updated)_
 
 ---
 ## Contributing a Proposal
