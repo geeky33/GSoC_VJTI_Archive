@@ -19,7 +19,7 @@ This repository hosts and maintains the list of Google Summer of Code (GSoC) pro
 
 ## 📊 Repository Stats
 
-- Total proposals submitted: **5** _(auto-updated)_
+- Total proposals submitted: **7** _(auto-updated)_
 
 ---
 ## Contributing a Proposal
@@ -85,6 +85,8 @@ That's it. Your work could help someone get in next year.
 - [x] GNU Octave
 - [x] Intel-OpenVINO
 - [x] ML4SCI
+- [x] OpenAstronomy
+- [x] Red Hen Lab
 - [x] Rspamd
 - [x] TARDIS RT Collaboration
 
