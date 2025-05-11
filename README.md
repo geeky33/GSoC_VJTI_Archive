@@ -75,16 +75,24 @@ That's it. Your work could help someone get in next year.
 ## Org Submission Checklist
 
 
+- [x] GNU Octave
+- [x] Intel-OpenVINO
+- [x] ML4SCI
+- [x] Rspamd
+- [x] TARDIS RT Collaboration
+- [x] assets
+
 <!-- This list is automatically updated from the directory structure -->
 
 ---
 
 ## Contributors
 <!-- Add contributors below -->
-
+- [ayraa.ai](https://github.com/geeky33)
+- [Swayam Shah](https://github.com/Sonu0305)
 
 <div align="center">
-  <a href="https://github.com/username1"><img src="https://github.com/username1.png" width="60px" alt="username1" /></a>
-  <a href="https://github.com/username2"><img src="https://github.com/username2.png" width="60px" alt="username2" /></a>
+  <a href="https://github.com/geeky33"><img src="https://github.com/geeky33.png" width="60px" alt="geeky33" /></a>
+  <a href="https://github.com/Sonu0305"><img src="https://github.com/Sonu0305.png" width="60px" alt="Sonu0305" /></a>
 </div>
 
