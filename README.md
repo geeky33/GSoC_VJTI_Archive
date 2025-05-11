@@ -73,16 +73,14 @@ That's it. Your work could help someone get in next year.
 
 ## ✅ Org Submission Checklist
 
-- [x] ORG_NAME_1  
-- [x] ORG_NAME_2  
+
 <!-- This list is automatically updated from the directory structure -->
 
 ---
 
 ## 🧑‍💻 Contributors
 <!-- Add contributors below -->
-- [Contributor Name 1](https://github.com/username1)  
-- [Contributor Name 2](https://github.com/username2)  
+
 
 <div align="center">
   <a href="https://github.com/username1"><img src="https://github.com/username1.png" width="60px" alt="username1" /></a>
