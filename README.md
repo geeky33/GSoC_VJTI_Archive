@@ -72,14 +72,14 @@ That's it. Your work could help someone get in next year.
 
 ---
 
-## ✅ Org Submission Checklist
+## Org Submission Checklist
 
 
 <!-- This list is automatically updated from the directory structure -->
 
 ---
 
-## 🧑‍💻 Contributors
+## Contributors
 <!-- Add contributors below -->
 
 
