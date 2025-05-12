@@ -19,7 +19,7 @@ This repository hosts and maintains the list of Google Summer of Code (GSoC) pro
 
 ## 📊 Repository Stats
 
-- Total proposals submitted: **9** _(auto-updated)_
+- Total proposals submitted: **10** _(auto-updated)_
 
 ---
 ## Contributing a Proposal
@@ -87,6 +87,7 @@ That's it. Your work could help someone get in next year.
 - [x] Intel-OpenVINO
 - [x] ML4SCI
 - [x] NumFOCUS
+- [x] RTEMS
 - [x] Red Hen Lab
 - [x] Rspamd
 - [x] TARDIS RT Collaboration
@@ -102,6 +103,7 @@ That's it. Your work could help someone get in next year.
 - [Kevin Shah](https://github.com/kevinzb56)
 - [Om](https://github.com/Om-Doiphode)
 - [Prasanna Kasar](https://github.com/PrasannaKasar)
+- [Prithvi Tambewagh](https://github.com/rkt-1597)
 - [Sourish Phate](https://github.com/sourishphate)
 - [Swayam Shah](https://github.com/Sonu0305)
 
@@ -110,6 +112,7 @@ That's it. Your work could help someone get in next year.
   <a href="https://github.com/kevinzb56"><img src="https://github.com/kevinzb56.png" width="60px" alt="kevinzb56" /></a>
   <a href="https://github.com/Om-Doiphode"><img src="https://github.com/Om-Doiphode.png" width="60px" alt="Om-Doiphode" /></a>
   <a href="https://github.com/PrasannaKasar"><img src="https://github.com/PrasannaKasar.png" width="60px" alt="PrasannaKasar" /></a>
+  <a href="https://github.com/rkt-1597"><img src="https://github.com/rkt-1597.png" width="60px" alt="rkt-1597" /></a>
   <a href="https://github.com/Sonu0305"><img src="https://github.com/Sonu0305.png" width="60px" alt="Sonu0305" /></a>
   <a href="https://github.com/sourishphate"><img src="https://github.com/sourishphate.png" width="60px" alt="sourishphate" /></a>
 </div>
