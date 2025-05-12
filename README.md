@@ -19,7 +19,7 @@ This repository hosts and maintains the list of Google Summer of Code (GSoC) pro
 
 ## 📊 Repository Stats
 
-- Total proposals submitted: **10** _(auto-updated)_
+- Total proposals submitted: **11** _(auto-updated)_
 
 ---
 ## Contributing a Proposal
@@ -84,6 +84,7 @@ That's it. Your work could help someone get in next year.
 
 - [x] CERN-HSF
 - [x] GNU Octave
+- [x] INCF
 - [x] Intel-OpenVINO
 - [x] ML4SCI
 - [x] NumFOCUS
@@ -100,7 +101,7 @@ That's it. Your work could help someone get in next year.
 ## Contributors
 <!-- Add contributors below -->
 - [ayraa.ai](https://github.com/geeky33)
-- [Kevin Shah](https://github.com/kevinzb56)
+- [kevinzb56](https://github.com/kevinzb56)
 - [Om](https://github.com/Om-Doiphode)
 - [Prasanna Kasar](https://github.com/PrasannaKasar)
 - [Prithvi Tambewagh](https://github.com/rkt-1597)
