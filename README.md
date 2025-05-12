@@ -19,7 +19,7 @@ This repository hosts and maintains the list of Google Summer of Code (GSoC) pro
 
 ## 📊 Repository Stats
 
-- Total proposals submitted: **7** _(auto-updated)_
+- Total proposals submitted: **8** _(auto-updated)_
 
 ---
 ## Contributing a Proposal
@@ -86,6 +86,7 @@ That's it. Your work could help someone get in next year.
 - [x] GNU Octave
 - [x] Intel-OpenVINO
 - [x] ML4SCI
+- [x] NumFOCUS
 - [x] Red Hen Lab
 - [x] Rspamd
 - [x] TARDIS RT Collaboration
@@ -98,6 +99,7 @@ That's it. Your work could help someone get in next year.
 <!-- Add contributors below -->
 - [ayraa.ai](https://github.com/geeky33)
 - [Kevin Shah](https://github.com/kevinzb56)
+- [Om](https://github.com/Om-Doiphode)
 - [Prasanna Kasar](https://github.com/PrasannaKasar)
 - [Sourish Phate](https://github.com/sourishphate)
 - [Swayam Shah](https://github.com/Sonu0305)
@@ -105,6 +107,7 @@ That's it. Your work could help someone get in next year.
 <div align="center">
   <a href="https://github.com/geeky33"><img src="https://github.com/geeky33.png" width="60px" alt="geeky33" /></a>
   <a href="https://github.com/kevinzb56"><img src="https://github.com/kevinzb56.png" width="60px" alt="kevinzb56" /></a>
+  <a href="https://github.com/Om-Doiphode"><img src="https://github.com/Om-Doiphode.png" width="60px" alt="Om-Doiphode" /></a>
   <a href="https://github.com/PrasannaKasar"><img src="https://github.com/PrasannaKasar.png" width="60px" alt="PrasannaKasar" /></a>
   <a href="https://github.com/Sonu0305"><img src="https://github.com/Sonu0305.png" width="60px" alt="Sonu0305" /></a>
   <a href="https://github.com/sourishphate"><img src="https://github.com/sourishphate.png" width="60px" alt="sourishphate" /></a>
