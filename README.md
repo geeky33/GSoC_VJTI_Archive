@@ -101,7 +101,7 @@ That's it. Your work could help someone get in next year.
 ## Contributors
 <!-- Add contributors below -->
 - [ayraa.ai](https://github.com/geeky33)
-- [kevinzb56](https://github.com/kevinzb56)
+- [Kevin Shah](https://github.com/kevinzb56)
 - [Om](https://github.com/Om-Doiphode)
 - [Prasanna Kasar](https://github.com/PrasannaKasar)
 - [Prithvi Tambewagh](https://github.com/rkt-1597)
